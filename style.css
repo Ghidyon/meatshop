@@ -141,7 +141,7 @@ header {
 .header-content h4 {
     font-size: 1.4em;
     font-weight: bold;
-    text-shadow: 3px 2px black;
+    text-shadow: 3px 2px 2px black;
     margin-bottom: 1.5em; 
 }
 
@@ -551,7 +551,7 @@ h6::before {
     
     .header-content h4 {
         font-size: 1.2em;
-        text-shadow: 3px 2px black;
+        text-shadow: 3px 2px 2px black;
     }
 
     h2::before {
@@ -1032,7 +1032,7 @@ h6::before {
     
     .header-content h4 {
         font-size: .6em;
-	text-shadow: 3px 2px black;
+	text-shadow: 3px 2px 2px black;
     }
 
     .btn {
