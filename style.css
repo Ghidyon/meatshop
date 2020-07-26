@@ -516,6 +516,11 @@ h6::before {
     h5::before {
     left: 47%;
     }
+
+    h6::before {
+        width: 40px;
+        top: 1.5em;
+    }
 }
 
 @media screen and (max-width: 786px) {
