@@ -718,6 +718,7 @@ h6::before {
     
     .header-content h4 {
         font-size: 1em;
+	text-shadow: 3px 2px black;
     }
 
     .btn {
@@ -1031,6 +1032,7 @@ h6::before {
     
     .header-content h4 {
         font-size: .6em;
+	text-shadow: 3px 2px black;
     }
 
     .btn {
